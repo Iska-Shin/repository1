@@ -1,6 +1,3 @@
 # Saya adalah web developer
-Saya Hengker
-Top Global Alok
-
-
-
+saya anggota HMSI
+SAya mahasiwa Unipi
